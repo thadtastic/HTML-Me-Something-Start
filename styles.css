@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+#mainHeading {
+    color: red;
+}
+
+body {
+    padding: 5%;
+    background-image:linear-gradient(to right,rgb(193, 190, 190),rgb(29, 48, 75));
+    margin: 8px;
+    display: block;
+}
+
+p.funParagraph {
+    color: green;
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
+}
+#testP{
+    color:rgb(249, 208, 132);
+}
+
+
+img {
+    margin-bottom: 25px;
+}
+
+p{
+    color:rgb(249, 208, 132);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.layout-list {
+    color: white;
+}
